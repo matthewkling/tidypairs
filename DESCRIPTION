@@ -9,3 +9,5 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.1
+URL: https://github.com/matthewkling/tidypairs
+BugReports: https://github.com/matthewkling/tidypairs/issues
